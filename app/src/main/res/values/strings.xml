@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RESEP MASAKAN BAKSO MANTO</string>
+    
+    <string-array name="food_name">
+        <item>Tahu Bakso</item>
+        <item>Glondong Bakso</item>
+        <item>Mie Ayam</item>
+    </string-array>
+    <string-array name="food_desc">
+    <item>Tahu Bakso dengan tahu bulat bumbu pedas</item>
+    <item>Glondong Bakso Urat dengan bumbu pecel</item>
+    <item>Mie Ayam dengan ayam bakar</item>
+    </string-array>
+</resources>
